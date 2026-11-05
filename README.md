@@ -1,5 +1,10 @@
-I build backend systems, mostly in Python with Django and FastAPI, with some React on the front end.
-I started out building PHP and Laravel applications. I'm currently looking for a backend developer role.
+### Chandru Viswanathan
+
+Senior full-stack software engineer in Coimbatore. I build business applications and SaaS products,
+mostly ERP and backend architecture. These days that means Python with Django and FastAPI, and React on
+the front end. I started out building PHP and Laravel applications.
+
+I'm open to new roles.
 
 **What I've been building**
 
